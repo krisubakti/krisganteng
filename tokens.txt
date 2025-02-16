@@ -1,0 +1,16 @@
+nama_akun_1|token_bearer_1
+nama_akun_2|token_bearer_2
+nama_akun_3|token_bearer_3
+nama_akun_4|token_bearer_4
+nama_akun_5|token_bearer_5
+nama_akun_6|token_bearer_6
+nama_akun_7|token_bearer_7
+nama_akun_8|token_bearer_8
+nama_akun_9|token_bearer_9
+nama_akun_10|token_bearer_10
+nama_akun_11|token_bearer_11
+nama_akun_12|token_bearer_12
+nama_akun_13|token_bearer_13
+nama_akun_14|token_bearer_14
+nama_akun_15|token_bearer_15
+nama_akun_16|token_bearer_16
